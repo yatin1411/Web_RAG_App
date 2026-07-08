@@ -110,3 +110,6 @@ temp/
 *.bak
 *.tmp
 *.orig
+
+# Data
+data/
